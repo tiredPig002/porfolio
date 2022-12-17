@@ -1,2 +1,2 @@
 ﻿# uiux-portfolio
- visit my site at `tiredPig002.io/portfolio`! 
+ view my portfolio at `https://tiredpig002.github.io/portfolio/`! 
